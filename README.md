@@ -1,6 +1,8 @@
 # chinook-poc-web-app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 <img width="1787" alt="Screenshot 2022-05-27 at 12 28 51 PM" src="https://user-images.githubusercontent.com/54775196/170647949-d9b71a8b-be77-4cea-be7f-dd7e11496716.png">
 
 <img width="1786" alt="Screenshot 2022-05-27 at 12 29 07 PM" src="https://user-images.githubusercontent.com/54775196/170647963-758dec4b-7e17-40fb-9007-43ac4d7514fc.png">
