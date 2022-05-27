@@ -22,6 +22,7 @@ const Login: React.VFC<{
 		        setLoading(true);
 
 		        await createCustomers(firstName, signupEmail,  lastName);
+				setErrorMessage("Sucess ! Go to dashboard to see the new entry");
 		        setLoading(false);
 		    } catch (error) {
 		        setErrorMessage("error creating users");
